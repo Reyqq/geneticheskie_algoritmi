@@ -1,0 +1,1 @@
+# geneticheskie_algoritmi
